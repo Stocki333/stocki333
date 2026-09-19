@@ -1,31 +1,29 @@
 # Stocki333
 
-Technische Dokumentation und Praxiserfahrungen rund um **JBD BMS, LiFePO₄, Bluetooth-BMS und Batterietechnik**.
+Technische Dokumentation und Praxiserfahrungen zu **JBD BMS, LiFePO₄, Bluetooth-BMS und Batterietechnik**.
 
-## Themen
+## Schwerpunkte
 
 Seit mehreren Jahren beschäftige ich mich praktisch mit LiFePO₄-Batteriesystemen und insbesondere mit:
 
-- JBD BMS und deren Einstellungen
+- JBD BMS und BMS-Einstellungen
 - Auslesen und Beurteilen von BMS-Daten
 - LiFePO₄-Zellen und Zellspannungen
 - Balancing und Balancer-Einstellungen
 - Bluetooth-Kommunikation mit JBD BMS
 - Tests und Messungen an LiFePO₄-Batterien
-- technischen Informationswegen rund um JBD BMS
+- Fehlersuche an Batteriesystemen
 
-## JBD-Analyse
+## Technische Dokumentation
 
-Eine ausführlichere technische und quellenkritische Dokumentation zu **JBD BMS, LiFePO₄, JUBE-Tech und Stocki333** befindet sich im Projekt:
+Hier entstehen technische Dokumentationen zu JBD-BMS- und LiFePO₄-Systemen.
 
-**JBD-Analyse:**  
-https://github.com/Muicho/JBD-Analyse
+Im Mittelpunkt stehen praktische Erfahrungen, Messwerte und nachvollziehbare technische Zusammenhänge.
 
-**Öffentliche Dokumentation:**  
-https://muicho.github.io/JBD-Analyse/
+Dabei soll möglichst klar zwischen eigener Messung und Erfahrung, Herstellerinformationen sowie Informationen aus dem öffentlichen Erfahrungsaustausch unterschieden werden.
 
-## Einordnung
+## Stocki333
 
-Ziel der Dokumentation ist die nachvollziehbare Trennung zwischen eigener praktischer Erfahrung und Messung, Hersteller- bzw. Distributorinformationen, öffentlich zugänglichen Informationen und privatem Informationsaustausch.
+Der Name **Stocki333** wird seit Jahren im Zusammenhang mit praktischen Erfahrungen und Diskussionen zu LiFePO₄-Batterien, JBD BMS und verwandter Batterietechnik verwendet.
 
-Die Inhalte dienen der technischen Dokumentation und dem Erfahrungsaustausch zu JBD-BMS- und LiFePO₄-Systemen.
+Diese GitHub-Seite dient der strukturierten technischen Dokumentation dieser Themen.
